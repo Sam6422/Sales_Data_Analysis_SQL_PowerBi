@@ -6,9 +6,9 @@
 
 -Dataset acts as the starting point.
 
--SQL is used for bulk queries, joins, analysis.
+-SQL is used for bulk queries, Joins, Window functions, CTEs and analysis.
 
--Powerbi is used for visualisation/data modelling.
+-Powerbi is used for visualisation and data modelling.
 
 ## Dashboard
 ![Sales KPI PowerBi Dashboard](PowerBi/Sales_Analysis_PowerBi_KPI_Dashboard.png)

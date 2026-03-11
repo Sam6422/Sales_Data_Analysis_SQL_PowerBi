@@ -9,3 +9,6 @@
 -SQL is used for bulk queries, joins, analysis.
 
 -Powerbi is used for visualisation/data modelling.
+
+## Dashboard
+![Sales KPI PowerBi Dashboard](PowerBi/Sales_Data_Analysis_SQL_PowerBi.png)

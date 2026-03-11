@@ -5,5 +5,7 @@
 -Dataset -> SQL -> PowerBi
 
 -Dataset acts as the starting point.
+
 -SQL is used for bulk queries, joins, analysis.
+
 -Powerbi is used for visualisation/data modelling.
